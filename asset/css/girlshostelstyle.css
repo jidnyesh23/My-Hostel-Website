@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=PT+Sans&family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    color: #5A5353;
+}
+
+h2 {
+    color: #5A5353 !important;
+}
+
+p, li, td, th{
+    color: #7B7070;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+    text-align: center;
+    border-color: #7B7070;
+}
+
+li, p {
+    color: #7B7070;
+    font-size: 15px;
+}
+
+h5 {
+    font-size: 18px;
+    color: #5A5353 !important;
+}
+
+.fwsemibold {
+    font-weight: 400!important;
+}
+
+.cardshadow {
+    box-shadow: 2px 2px 5px 2px lightgray;
+}
+
+.hrline {
+    border-bottom: 3px solid lightgray;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+}
